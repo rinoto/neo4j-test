@@ -13,20 +13,8 @@
     
      <repositories>
         <repository>
-            <id>Spark repository</id>
-            <url>http://www.sparkjava.com/nexus/content/repositories/spark/</url>
-        </repository>
-        <repository>
             <id>Neo4j releases</id>
             <url>http://m2.neo4j.org/content/repositories/releases</url>
-        </repository>
-        <repository>
-            <id>Neo4j snapshots</id>
-            <url>http://m2.neo4j.org/content/repositories/snapshots</url>
-        </repository>
-        <repository>
-            <id>mandubian-mvn</id>
-            <url>http://mandubian-mvn.googlecode.com/svn/trunk/mandubian-mvn/repository</url>
         </repository>
     </repositories>
 	<dependencies>
